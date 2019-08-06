@@ -1,0 +1,2 @@
+class StopTraining(Exception):
+    pass
